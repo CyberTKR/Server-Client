@@ -1,4 +1,4 @@
-from tool import *
+from tool.client import *
 
 
 # Server tarafı
